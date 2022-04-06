@@ -1,0 +1,1 @@
+ 'cccaaaabbbCCCCabCCCcc' | sed 's/c//g;s/C//g' 

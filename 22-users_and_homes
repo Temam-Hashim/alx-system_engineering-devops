@@ -1,0 +1,1 @@
+ awk -F":" ' == /bin/false" {print \User:  \Home Dir: "}' /etc/passwd 
