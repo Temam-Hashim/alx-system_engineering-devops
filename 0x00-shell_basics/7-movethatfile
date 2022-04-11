@@ -1,1 +1,2 @@
+#!/bin/bash
 mv betty /temp/ 7-movethatfile
