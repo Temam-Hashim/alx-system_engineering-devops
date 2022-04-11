@@ -1,4 +1,4 @@
 #!/bin/bash
-ls -l -n -a .*
-
-
+ls -l 
+ls -n 
+ls -a .*
